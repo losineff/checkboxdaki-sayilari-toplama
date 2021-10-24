@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\checkBoxtaki sayıları toplama\checkBoxtaki sayıları toplama\bin\Debug\checkBoxtaki sayıları toplama.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\checkBoxtaki sayıları toplama\checkBoxtaki sayıları toplama\obj\Debug\checkBoxtaki sayıları toplama.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\checkBoxtaki sayıları toplama\checkBoxtaki sayıları toplama\obj\Debug\checkBoxtaki_sayıları_toplama.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\checkBoxtaki sayıları toplama\checkBoxtaki sayıları toplama\obj\Debug\checkBoxtaki_sayıları_toplama.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\checkBoxtaki sayıları toplama\checkBoxtaki sayıları toplama\obj\Debug\checkBoxtaki sayıları toplama.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\checkBoxtaki sayıları toplama\checkBoxtaki sayıları toplama\bin\Debug\checkBoxtaki sayıları toplama.exe
+c:\users\pc\documents\visual studio 2012\Projects\checkBoxtaki sayıları toplama\checkBoxtaki sayıları toplama\bin\Debug\checkBoxtaki sayıları toplama.pdb
+c:\users\pc\documents\visual studio 2012\Projects\checkBoxtaki sayıları toplama\checkBoxtaki sayıları toplama\obj\Debug\checkBoxtaki sayıları toplama.exe
+c:\users\pc\documents\visual studio 2012\Projects\checkBoxtaki sayıları toplama\checkBoxtaki sayıları toplama\obj\Debug\checkBoxtaki sayıları toplama.pdb
